@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Study2</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_exit">Exit</string>
+    <string name="project1">Project1</string>
+    <string name="title_activity_project1">Project1Activity</string>
+    <string name="title_activity_return_data">ReturnDataActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_self_title">SelfTitleActivity</string>
+    <string name="title_activity_list_view">ListViewActivity</string>
+    <string name="title_activity_contacts">ContactsActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_save_data">SaveDataActivity</string>
+    <string name="title_activity_qqui">QQUIActivity</string>
+    <string name="title_activity_java_learn">JavaLearnActivity</string>
+</resources>

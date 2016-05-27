@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/group1">
+        <item android:id="@+id/right1"
+            android:title="背景色：黑">
+            菜单1
+        </item>
+        <item android:id="@+id/right2"
+            android:title="菜单2">
+            菜单2
+        </item>
+        <item android:id="@+id/right3"
+            android:title="菜单3">
+            菜单3
+        </item>
+    </group>
+
+</menu>
